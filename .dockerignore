@@ -1,5 +1,3 @@
-node_modules
 .git
-.editorconfig
-.gitignore
-.next
+cache
+dist
